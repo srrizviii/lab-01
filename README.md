@@ -2,7 +2,7 @@
 
 ## Student Details
 - **Full Name:** `Rayan Rizvi`
-- **CCID:** `<Enter ccid>`
+- **CCID:** `srrizvi`
 
 ## References and Resources
 `N/A`
